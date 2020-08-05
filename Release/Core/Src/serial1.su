@@ -1,0 +1,11 @@
+serial1.c:15:6:store_char	12	static
+serial1.c:23:6:USART1_IRQHandler	0	static
+serial1.c:52:9:serial1_available	0	static
+serial1.c:55:9:serial1_read	8	static
+serial1.c:88:6:serial1_putchar	0	static
+serial1.c:66:6:serial1_print	8	static
+serial1.c:72:6:serial1_println	8	static
+serial1.c:80:6:serial1_print_itoa	16	static
+serial1.c:94:6:HAL_UART_MspInit	32	static
+serial1.c:31:6:serial1_begin	16	static
+serial1.c:127:6:HAL_UART_MspDeInit	0	static
